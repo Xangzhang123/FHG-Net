@@ -1,1 +1,3 @@
-# FHG-Net
+Frequency Domain Hybrid Feature Guided Human Mesh Recovery Network
+Code
+Coming soon...
